@@ -5,18 +5,18 @@
 
 software development · game development · web projects
 
-## about me
+### about me
 
 Hi, ich bin Mina.  
 Ich interessiere mich für Softwareentwicklung, Game Development und Webentwicklung.
 
-## projects
+### projects
 
 - Godot Game
 - Memory Game
 - Portfolio Website
 
-## skills
+### skills
 
 - C#
 - Python
