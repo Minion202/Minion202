@@ -1,6 +1,5 @@
-<p align="right">
+
   <img src="https://i.pinimg.com/originals/d0/95/8a/d0958a757cbe2dbd3ae0fc8f2abf1813.gif" width="400">
-</p>
 
 # ˗ˏˋ welcome to Mina's profile ˎˊ˗
 
