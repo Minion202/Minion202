@@ -1,7 +1,7 @@
 
   <img src="https://i.pinimg.com/originals/d0/95/8a/d0958a757cbe2dbd3ae0fc8f2abf1813.gif" align="right" width="300" alt="Large side GIF" />
 
-# ˗ˏˋ welcome to Mina's profile ˎˊ˗
+## ˗ˏˋ welcome to Mina's profile ˎˊ˗
 
 software development · game development · web projects
 
